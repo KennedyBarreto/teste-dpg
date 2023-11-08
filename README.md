@@ -6,7 +6,7 @@
   <a href ="https://kennedybarreto.github.io/teste-dpg/">Demo </a> 
 </div>
 
-<h1 align="center">Calculadora Simples</h1>
+<h1 align="center">Encurtador de URLs</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/KennedyBarreto/teste-dpg?color=af0fff">
