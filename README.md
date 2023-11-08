@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="images/demo.png" alt="Encurtador de URL" />
+  <img src="demo.png" alt="Encurtador de URL" />
 
   &#xa0;
 
